@@ -1,4 +1,4 @@
-# Natixis_Datacamp
+# Natixis Datacamp 🏦
 
 Central bank speeches often provide information on the economic health of countries, trends and the near future of the global economy. These same trends are usually linked to fluctuations in market volatility indexes. The aim of this work is to predict the evolution of the VIX and EURUSDV1M indices using speeches from the US and European central banks.
 By using NLP models, decision trees and neural networks, we performed a regression task on the value of these indexes and a classification task on the bearish or bullish trend of these indices.
