@@ -4,7 +4,7 @@ Central bank speeches often provide information on the economic health of countr
 By using NLP models, decision trees and neural networks, we performed a regression task on the value of these indexes and a classification task on the bearish or bullish trend of these indices.
 
 
-1. Data cleaning: strange tokens, 
+1. Data cleaning: strange tokens
 2. Tokenization (if not using pertained models)
 3. Encoder (pertained model) to get speech representation (1 sentence=1 vector or 1 paragraph=1 vector, a list of vector=1 speech with zero paddings) 
 4. Feature Extractions 
