@@ -11,5 +11,6 @@ By using NLP models, decision trees and neural networks, we performed a regressi
 5. Decoder to do the prediction task. (Input = speech vector representation, stock prices, other features)
 6. Other technique details (how to represent missing speeches)
 
+For more details, refer to the pdf report.
 
 @Thomas Kessous, Xinyu Liu, Manan Gupta, François Schmerber, Wanqi Hong
